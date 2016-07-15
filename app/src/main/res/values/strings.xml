@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentDemonstrationProject</string>
+    <string name="btn_click_to_update">Click to Update</string>
+</resources>
