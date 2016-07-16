@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">FragmentDemonstrationProject</string>
-    <string name="btn_click_to_update">Click to Update</string>
+    <string name="app_name">AsyncTaskDemo</string>
+    <string name="sleep_time">Sleep time(in milliseconds)</string>
+    <string name="run_async_task">Run Async task</string>
 </resources>
