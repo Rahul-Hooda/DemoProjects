@@ -1,4 +1,4 @@
-package com.example.rahulhooda.fragmentdemonstrationproject;
+package com.example.rahulhooda.recyclerviewdemo;
 
 import org.junit.Test;
 
