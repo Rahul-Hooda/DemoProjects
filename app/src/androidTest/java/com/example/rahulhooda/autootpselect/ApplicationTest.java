@@ -1,4 +1,4 @@
-package com.example.rahulhooda.fragmentdemonstrationproject;
+package com.example.rahulhooda.autootpselect;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
